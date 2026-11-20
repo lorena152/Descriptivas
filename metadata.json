@@ -1,0 +1,6 @@
+{
+  "name": "LuminaEDA — Análisis Exploratorio de Datos",
+  "description": "Plataforma minimalista y profesional para análisis exploratorio, estadística descriptiva, visualización interactiva, detección de valores atípicos y reportes PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
